@@ -1,0 +1,33 @@
+{
+  "version": "1.9.24",
+  "databasePath": ".versiondb",
+  "noteIdFrontmatterKey": "vc-id",
+  "keyUpdatePathFilters": [],
+  "maxVersionsPerNote": 50,
+  "autoCleanupOldVersions": false,
+  "autoCleanupDays": 60,
+  "defaultExportFormat": "md",
+  "useRelativeTimestamps": true,
+  "enableVersionNaming": true,
+  "enableVersionDescription": false,
+  "isListView": false,
+  "renderMarkdownInPreview": true,
+  "enableWatchMode": false,
+  "watchModeInterval": 60,
+  "autoSaveOnSave": false,
+  "autoSaveOnSaveInterval": 2,
+  "enableMinLinesChangedCheck": false,
+  "minLinesChanged": 5,
+  "autoRegisterNotes": false,
+  "pathFilters": [],
+  "centralManifest": {
+    "version": "1.0.0",
+    "notes": {}
+  },
+  "enableWordCount": false,
+  "includeMdSyntaxInWordCount": false,
+  "enableCharacterCount": false,
+  "includeMdSyntaxInCharacterCount": false,
+  "enableLineCount": false,
+  "includeMdSyntaxInLineCount": false
+}
