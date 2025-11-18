@@ -34,28 +34,23 @@
               "icon": "lucide-file",
               "title": "Testing Documents"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "8b776831d87fa9a3",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1812a2343b42dd51",
+            "id": "34835db9a3c4abaf",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Mermaid Testing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Mermaid Testing"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,17 +183,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing Documents.md",
+                "file": "Mermaid Testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Testing Documents"
+              "title": "Outline of Mermaid Testing"
             }
           },
           {
-            "id": "31393a32021a9d50",
+            "id": "be468af1274ec552",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -206,9 +201,19 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "fc1641a1ab924b71",
+            "type": "leaf",
+            "state": {
+              "type": "version-control-view",
+              "state": {},
+              "icon": "history",
+              "title": "Version control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -228,11 +233,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "cb05952d7f45901c",
+  "active": "fc1641a1ab924b71",
   "lastOpenFiles": [
-    "Welcome.md",
     "Testing Documents.md",
-    "Untitled.canvas",
-    "Untitled.base"
+    "Mermaid Testing.md",
+    "Untitled.base",
+    "Welcome.md",
+    "Untitled.canvas"
   ]
 }

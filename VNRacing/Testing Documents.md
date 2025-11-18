@@ -16,3 +16,15 @@ cout << "Hello Obsidian Vault" << endl;
 
 return 0;
 }
+
+
+````mermaid
+
+
+
+
+
+
+
+
+
